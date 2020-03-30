@@ -1,0 +1,269 @@
+1585527465595	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xl/1fsnjhbd0979_r28l3qdjr_c0000gn/T/rust_mozprofileQlKvGG"
+1585527467831	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585527468095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585527468095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585527468095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585527468095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585527470064	Marionette	INFO	Listening on port 61833
+1585527539426	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xl/1fsnjhbd0979_r28l3qdjr_c0000gn/T/rust_mozprofile8b362x"
+1585527539928	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585527540312	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585527540312	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585527540312	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585527540312	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585527541991	Marionette	INFO	Listening on port 62178
+1585527542092	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585527570698	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xl/1fsnjhbd0979_r28l3qdjr_c0000gn/T/rust_mozprofileFeCf5e"
+1585527571176	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585527571427	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585527571427	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585527571427	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585527571427	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585527572911	Marionette	INFO	Listening on port 62365
+1585527572941	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585527588383	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xl/1fsnjhbd0979_r28l3qdjr_c0000gn/T/rust_mozprofileo1zHOe"
+1585527588856	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585527589111	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585527589111	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585527589111	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585527589111	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585527590725	Marionette	INFO	Listening on port 62493
+1585527590743	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585527598197	Marionette	INFO	Stopped listening on port 61833
+1585527600848	Marionette	INFO	Stopped listening on port 62178
+1585527603215	Marionette	INFO	Stopped listening on port 62365
+1585527607175	Marionette	INFO	Stopped listening on port 62493
+1585527624908	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xl/1fsnjhbd0979_r28l3qdjr_c0000gn/T/rust_mozprofileXwuybn"
+1585527625383	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585527625633	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585527625633	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585527625633	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585527625633	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585527627340	Marionette	INFO	Listening on port 62696
+1585527627370	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585527692697	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xl/1fsnjhbd0979_r28l3qdjr_c0000gn/T/rust_mozprofileiwQv0l"
+1585527693102	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585527693350	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585527693350	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585527693351	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585527693351	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585527694799	Marionette	INFO	Listening on port 63037
+1585527694851	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585527711338	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xl/1fsnjhbd0979_r28l3qdjr_c0000gn/T/rust_mozprofilet9P9Wu"
+1585527711731	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585527711982	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585527711982	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585527711982	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585527711983	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585527713663	Marionette	INFO	Listening on port 63164
+1585527713699	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585527728114	Marionette	INFO	Stopped listening on port 63164
+1585527731695	Marionette	INFO	Stopped listening on port 63037
+1585527734514	Marionette	INFO	Stopped listening on port 62696
+1585527743598	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xl/1fsnjhbd0979_r28l3qdjr_c0000gn/T/rust_mozprofile4zNhvX"
+1585527744003	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585527744267	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585527744267	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585527744268	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585527744268	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585527745830	Marionette	INFO	Listening on port 63352
+1585527745859	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585527770875	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xl/1fsnjhbd0979_r28l3qdjr_c0000gn/T/rust_mozprofileQYTT53"
+1585527771276	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585527771526	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585527771526	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585527771526	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585527771526	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585527773095	Marionette	INFO	Listening on port 63521
+1585527773123	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585527778832	Marionette	INFO	Stopped listening on port 63521
+1585527781428	Marionette	INFO	Stopped listening on port 63352
+1585527830623	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xl/1fsnjhbd0979_r28l3qdjr_c0000gn/T/rust_mozprofileM36pYb"
+1585527831019	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585527831270	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585527831270	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585527831270	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585527831270	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585527832941	Marionette	INFO	Listening on port 63813
+1585527832971	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1585528207910	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xl/1fsnjhbd0979_r28l3qdjr_c0000gn/T/rust_mozprofilerRLMk4"
+1585528208504	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585528208892	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585528208892	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585528208892	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585528208892	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585528210385	Marionette	INFO	Listening on port 49172
+1585528210458	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.concursosfcc.com.br/concursos/publicWeb2/modelo/3/menu/menu.js, line 4: ReferenceError: $ is not defined
+1585528224165	Marionette	INFO	Stopped listening on port 49172
+1585528229856	Marionette	INFO	Stopped listening on port 63813
+1585528281748	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xl/1fsnjhbd0979_r28l3qdjr_c0000gn/T/rust_mozprofileCSgoOD"
+1585528282311	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585528282694	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585528282694	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585528282695	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585528282695	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585528284136	Marionette	INFO	Listening on port 49544
+1585528284191	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1585528302450	Marionette	INFO	Stopped listening on port 49544
+1585528574173	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xl/1fsnjhbd0979_r28l3qdjr_c0000gn/T/rust_mozprofile1XaPJN"
+1585528574583	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585528574833	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585528574833	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585528574833	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585528574833	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585528576304	Marionette	INFO	Listening on port 50880
+1585528576323	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.concursosfcc.com.br/concursos/publicWeb2/modelo/3/menu/menu.js, line 4: ReferenceError: $ is not defined
+JavaScript error: https://www.concursosfcc.com.br/concursos/publicWeb2/modelo/3/menu/menu.js, line 4: ReferenceError: $ is not defined
+JavaScript error: https://www.concursosfcc.com.br/concursos/publicWeb2/modelo/3/menu/menu.js, line 4: ReferenceError: $ is not defined
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.concursosfcc.com.br/concursos/publicWeb2/modelo/3/menu/menu.js, line 4: ReferenceError: $ is not defined
+JavaScript error: https://www.concursosfcc.com.br/concursos/publicWeb2/modelo/3/menu/menu.js, line 4: ReferenceError: $ is not defined
+JavaScript error: https://www.concursosfcc.com.br/concursos/publicWeb2/modelo/3/menu/menu.js, line 4: ReferenceError: $ is not defined
+JavaScript error: https://www.concursosfcc.com.br/concursos/publicWeb2/modelo/3/menu/menu.js, line 4: ReferenceError: $ is not defined
+JavaScript error: https://www.concursosfcc.com.br/concursos/publicWeb2/modelo/3/menu/menu.js, line 4: ReferenceError: $ is not defined
+JavaScript error: https://www.concursosfcc.com.br/concursos/publicWeb2/modelo/3/menu/menu.js, line 4: ReferenceError: $ is not defined
+JavaScript error: https://www.concursosfcc.com.br/concursos/publicWeb2/modelo/3/menu/menu.js, line 4: ReferenceError: $ is not defined
+JavaScript error: https://www.concursosfcc.com.br/concursos/publicWeb2/modelo/3/menu/menu.js, line 4: ReferenceError: $ is not defined
+JavaScript error: https://www.concursosfcc.com.br/concursos/publicWeb2/modelo/3/menu/menu.js, line 4: ReferenceError: $ is not defined
+JavaScript error: https://www.concursosfcc.com.br/concursos/publicWeb2/modelo/3/menu/menu.js, line 4: ReferenceError: $ is not defined
+JavaScript error: https://www.concursosfcc.com.br/concursos/publicWeb2/modelo/3/menu/menu.js, line 4: ReferenceError: $ is not defined
+JavaScript error: https://www.concursosfcc.com.br/concursos/publicWeb2/modelo/3/menu/menu.js, line 4: ReferenceError: $ is not defined
+JavaScript error: https://www.concursosfcc.com.br/concursos/publicWeb2/modelo/3/menu/menu.js, line 4: ReferenceError: $ is not defined
+JavaScript error: https://www.concursosfcc.com.br/concursos/publicWeb2/modelo/3/menu/menu.js, line 4: ReferenceError: $ is not defined
+JavaScript error: https://www.concursosfcc.com.br/concursos/publicWeb2/modelo/3/menu/menu.js, line 4: ReferenceError: $ is not defined
+JavaScript error: https://www.concursosfcc.com.br/concursos/publicWeb2/modelo/3/menu/menu.js, line 4: ReferenceError: $ is not defined
+JavaScript error: https://www.concursosfcc.com.br/concursos/publicWeb2/modelo/3/menu/menu.js, line 4: ReferenceError: $ is not defined
+JavaScript error: https://www.concursosfcc.com.br/concursos/publicWeb2/modelo/3/menu/menu.js, line 4: ReferenceError: $ is not defined
+JavaScript error: https://www.concursosfcc.com.br/concursos/publicWeb2/modelo/3/menu/menu.js, line 4: ReferenceError: $ is not defined
+JavaScript error: https://www.concursosfcc.com.br/concursos/publicWeb2/modelo/3/menu/menu.js, line 4: ReferenceError: $ is not defined
+JavaScript error: https://www.concursosfcc.com.br/concursos/publicWeb2/modelo/3/menu/menu.js, line 4: ReferenceError: $ is not defined
+JavaScript error: https://www.concursosfcc.com.br/concursos/publicWeb2/modelo/3/menu/menu.js, line 4: ReferenceError: $ is not defined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1585528605306	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xl/1fsnjhbd0979_r28l3qdjr_c0000gn/T/rust_mozprofileEwSTIp"
+1585528605859	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585528606248	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585528606248	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585528606248	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585528606248	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585528607758	Marionette	INFO	Listening on port 51070
+1585528607856	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.concursosfcc.com.br/concursos/publicWeb2/modelo/3/menu/menu.js, line 4: ReferenceError: $ is not defined
+JavaScript error: https://www.concursosfcc.com.br/concursos/publicWeb2/modelo/3/menu/menu.js, line 4: ReferenceError: $ is not defined
+JavaScript error: https://www.concursosfcc.com.br/concursos/publicWeb2/modelo/3/menu/menu.js, line 4: ReferenceError: $ is not defined
+JavaScript error: https://www.concursosfcc.com.br/concursos/publicWeb2/modelo/3/menu/menu.js, line 4: ReferenceError: $ is not defined
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.concursosfcc.com.br/concursos/publicWeb2/modelo/3/menu/menu.js, line 4: ReferenceError: $ is not defined
+JavaScript error: https://www.concursosfcc.com.br/concursos/publicWeb2/modelo/3/menu/menu.js, line 4: ReferenceError: $ is not defined
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.concursosfcc.com.br/concursos/publicWeb2/modelo/3/menu/menu.js, line 4: ReferenceError: $ is not defined
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1585528676274	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xl/1fsnjhbd0979_r28l3qdjr_c0000gn/T/rust_mozprofile8LdZuS"
+1585528676685	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585528677110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585528677110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585528677110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585528677110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585528678759	Marionette	INFO	Listening on port 51424
+1585528678805	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1585528746968	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xl/1fsnjhbd0979_r28l3qdjr_c0000gn/T/rust_mozprofileuWFK4d"
+1585528747365	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585528747615	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585528747616	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585528747616	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585528747616	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585528749330	Marionette	INFO	Listening on port 51800
+1585528749411	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1585528831112	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xl/1fsnjhbd0979_r28l3qdjr_c0000gn/T/rust_mozprofileHDA9qG"
+1585528831530	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585528831997	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585528831997	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585528831997	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585528831997	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585528833644	Marionette	INFO	Listening on port 52233
+1585528833685	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.concursosfcc.com.br/concursos/publicWeb2/modelo/3/menu/menu.js, line 4: ReferenceError: $ is not defined
+JavaScript error: https://www.concursosfcc.com.br/concursos/publicWeb2/modelo/3/menu/menu.js, line 4: ReferenceError: $ is not defined
+JavaScript error: https://www.concursosfcc.com.br/concursos/publicWeb2/modelo/3/menu/menu.js, line 4: ReferenceError: $ is not defined
+JavaScript error: https://www.concursosfcc.com.br/concursos/publicWeb2/modelo/3/menu/menu.js, line 4: ReferenceError: $ is not defined
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.concursosfcc.com.br/concursos/publicWeb2/modelo/3/menu/menu.js, line 4: ReferenceError: $ is not defined
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.concursosfcc.com.br/concursos/publicWeb2/modelo/3/menu/menu.js, line 4: ReferenceError: $ is not defined
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.concursosfcc.com.br/concursos/publicWeb2/modelo/3/menu/menu.js, line 4: ReferenceError: $ is not defined
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.concursosfcc.com.br/concursos/publicWeb2/modelo/3/menu/menu.js, line 4: ReferenceError: $ is not defined
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.concursosfcc.com.br/concursos/publicWeb2/modelo/3/menu/menu.js, line 4: ReferenceError: $ is not defined
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.concursosfcc.com.br/concursos/publicWeb2/modelo/3/menu/menu.js, line 4: ReferenceError: $ is not defined
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.

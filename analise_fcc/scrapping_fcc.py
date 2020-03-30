@@ -15,6 +15,7 @@ import re
 import os
 import ssl
 
+
 #página onde são listados todos os concursos
 url_concursos = "https://www.concursosfcc.com.br/concursoOutraSituacao.html"
 
@@ -40,4 +41,16 @@ ls_tribunais = list()
 for trt in links_tribunais:
     ls_tribunais.append([trt.text,trt.get('href')])
 df_links = df_links.append(pd.DataFrame(ls_tribunais,columns=df_links.columns),ignore_index=True)
-print(df_links)
+
+#firefox session
+driver = webdriver.Firefox()
+driver.implicitly_wait(30)
+
+for row in df_links.iterrows():
+    driver.get(row[1].link)
+    element = WebDriverWait(driver,10).until(EC.presence_of_element_located((By.CLASS_NAME,'linkArquivo')))
+    html_result = BeautifulSoup(driver.page_source,'html.parser')
+    resultados_link = soup.find_all("div",{'class':'campoLinkArquivo'})
+    print(resultados_link)
+
+    
